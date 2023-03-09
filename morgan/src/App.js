@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import Header from "./components/Header";
 import About from "./routes/About";
-import Home from "./routes/Home";
+import Home from "./routes";
 import Project from "./routes/Project";
 import style from "./style.css";
 
